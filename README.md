@@ -1,4 +1,4 @@
-#Hi i'm Muhamad Jaelani
+  #Hi i'm Muhamad Jaelani
 I'm a 16-year-old junior front-end developer and tech enthusiast currently studying at SMKN 1 Rangkasbitung, majoring in visual communication design. I'm currently studying the following technology stack:
 
 
@@ -19,7 +19,7 @@ I'm a 16-year-old junior front-end developer and tech enthusiast currently study
 [![](https://visitcount.itsvg.in/api?id=zyXeevls&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/MuhamadJaelani642?country.x=ID&locale.x=id_ID) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/MuhamadJaelani642) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
