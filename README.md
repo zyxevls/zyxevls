@@ -1,4 +1,4 @@
-  #Hi i'm Muhamad Jaelani
+# Hi i'm Muhamad Jaelani
 I'm a 16-year-old junior front-end developer and tech enthusiast currently studying at SMKN 1 Rangkasbitung, majoring in visual communication design. I'm currently studying the following technology stack:
 
 
