@@ -1,5 +1,9 @@
 # Hi i'm Muhamad Jaelani
-I'm a 16-year-old junior front-end developer and tech enthusiast currently studying at SMKN 1 Rangkasbitung, majoring in visual communication design. I'm currently studying the following technology stack:
+I’m a 16-year-old junior front-end developer and tech enthusiast currently studying at SMKN 1 Rangkasbitung, majoring in Visual Communication Design (DKV). I combine my passion for technology with a strong foundation in design to create user-friendly, visually appealing, and responsive web interfaces.
+
+I’m currently focused on building my skills through real-world projects, school assignments, and continuous self-learning. My interests revolve around modern web development, UI/UX design, and the creative process behind crafting interactive digital experiences.
+
+I’m actively learning and developing my skills in the following technology stack:
 
 
 # 💻 Tech Stack:
