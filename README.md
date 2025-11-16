@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+  <img src="[https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" />
   
   # 👋 Hi, I'm **Muhamad Jaelani**
   <strong>16 y/o Front-End Developer & Tech Enthusiast</strong>  
   <strong>Student at SMKN 1 Rangkasbitung — DKV (Visual Communication Design)</strong>
-
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
 </div>
 
 ---
@@ -56,10 +54,6 @@ Currently sharpening my skills in:
 
 ---
 
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="250"/>
-</div>
-
 ## 📊 GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=zyXeevls&theme=dark&hide_border=false)  
@@ -79,8 +73,3 @@ If you like my work, consider supporting me!
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MuhamadJaelani642)
 
----
-
-<div align="center">
-  <sub>✨ Proudly enhanced with GIFs from <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">GIFs-For-Readme</a> ✨</sub>
-</div>
