@@ -14,9 +14,7 @@ I’m actively learning and developing my skills in the following technology sta
 
 
 
-# 📊 GitHub Sta##ts:
-#![](https://github-readme-stats.vercel.app/api?username=zyXeevls&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
+# 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=zyXeevls&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyXeevls&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
