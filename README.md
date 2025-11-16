@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
   
   # 👋 Hi, I'm **Muhamad Jaelani**
   <strong>16 y/o Front-End Developer & Tech Enthusiast</strong>  
@@ -58,12 +58,6 @@ Currently sharpening my skills in:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=zyXeevls&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyXeevls&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350"/>
-</div>
 
 ---
 
