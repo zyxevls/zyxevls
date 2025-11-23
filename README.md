@@ -3,7 +3,6 @@
   
   # 👋 Hi, I'm **Muhamad Jaelani**
   <strong>16 y/o Front-End Developer & Tech Enthusiast</strong>  
-  <strong>Student at SMKN 1 Rangkasbitung — DKV (Visual Communication Design)</strong>
 </div>
 
 ---
