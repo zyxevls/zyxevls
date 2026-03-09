@@ -50,13 +50,6 @@ Currently sharpening my skills in:
 
 ---
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zyxeevls/)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaelanim465@gmail.com)
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=zyXeevls&theme=dark&hide_border=false)  
