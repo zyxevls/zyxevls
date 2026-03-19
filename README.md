@@ -56,9 +56,9 @@ Currently sharpening my skills in:
 
 ## 📊 GitHub Stats
 
-[![](https://streak-stats.demolab.com?user=zyXeevls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+[![](https://streak-stats.demolab.com?user=zyxevls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyXeevls&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyxevls&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -68,4 +68,4 @@ If you like my work, consider supporting me!
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MuhamadJaelani642)
 
-![Contribution](https://github.com/zyXeevls/zyXeevls/blob/output/github-contribution-grid-snake-dark.svg)
+![Contribution](https://github.com/zyXeevls/zyxevls/blob/output/github-contribution-grid-snake-dark.svg)
