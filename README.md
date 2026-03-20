@@ -58,12 +58,11 @@ Currently sharpening my skills in:
 
 ![](https://streak-stats.demolab.com?user=zyxevls&theme=tokyonight&hide_border=true) 
 
-<p align="center">
+<p align="flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyxevls&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </p>
----
 
 ## 💰 Support Me
 
